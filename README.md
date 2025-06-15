@@ -15,7 +15,7 @@ This is an **Arduino-based IR Sensor Counter System** to track the number of peo
 - Breadboard
 
 ## 📂 Code Files
-- `in_out_copy_20250615194338.ino` → Main Arduino sketch
+- `in_out.ino` → Main Arduino sketch
 
 ## 🚀 How to Use
 1. Connect your IR sensors to digital pins as defined in the code.
